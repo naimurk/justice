@@ -29,6 +29,44 @@ header section {
 }
 
 
+form .form-box {
+    background-color: white;
+    padding: 0px;
+    width: 270px;
+    display: flex;
+    
+    
+    
+
+}
+
+
+
+.form-box input {
+    background-color: white;
+    border: none;
+    padding: 15px 15px;
+}
+.form-box input:hover {
+    background-color: white;
+    border: none;
+    padding: 15px 15px;
+    font-size: 16px;
+}
+.form-box button {
+    background-color: #B68C5A;
+    border: none;
+    padding: 15px 15px;
+    border-bottom-left-radius: 8px ;
+    border-top-left-radius: 8px ;
+    
+}
+
+
+
+
+
+
 
 /* md  */
 
@@ -55,6 +93,15 @@ header section {
         font-size: 14px;
         font-weight: 300;
 
+    }
+
+
+    .last-column-p {
+
+
+        width: 70%;
+    
+    
     }
     
 }
