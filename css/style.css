@@ -43,6 +43,19 @@ header section {
         font-size: 14px;
         font-weight: 300;
     }
+
+    footer p {
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    footer a {
+
+
+        font-size: 14px;
+        font-weight: 300;
+
+    }
     
 }
 
@@ -91,6 +104,21 @@ header section {
 
     .question-img {
         width: 50%;
+    }
+
+
+    footer p {
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+
+    footer a {
+
+
+        font-size: 16px;
+        font-weight: 300;
+
     }
    
     
