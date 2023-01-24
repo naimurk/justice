@@ -11,6 +11,25 @@ header section {
     
 }
 
+
+.slider-banner-1 {
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%), url('../images/slider-1.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slider-banner-2 {
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%), url('../images/slider-2.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slider-banner-3 {
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%), url('../images/slider-3.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
 /* md  */
 
 @media only screen  and (max-width:576px) {
@@ -18,6 +37,11 @@ header section {
 
     .header-p{
         font-size: 14px;
+    }
+
+    .slider-banner-1 p {
+        font-size: 14px;
+        font-weight: 300;
     }
     
 }
@@ -45,6 +69,11 @@ header section {
 
     .header-p{
         max-width: 50%;
+    }
+
+    .slider-banner-1 p {
+        font-size: 16px;
+        font-weight: 300;
     }
     
 }
