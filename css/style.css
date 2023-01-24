@@ -75,5 +75,23 @@ header section {
         font-size: 16px;
         font-weight: 300;
     }
+
+
+   .question-carousel{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+
+
+    .question-carousel-1{
+        width: 50%;
+    }
+
+
+    .question-img {
+        width: 50%;
+    }
+   
     
 }
